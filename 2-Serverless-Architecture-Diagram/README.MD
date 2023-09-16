@@ -1,0 +1,6 @@
+
+### Serverless Architecture Diagram:
+ 
+ * go through this link
+
+   [1]: https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb
