@@ -79,6 +79,9 @@ Useful Solutions:
 
 ### conluson: These are just a few examples of cloud-native architectures and associated solutions. The choice of architecture and solutions depends on your specific use case, requirements, and the cloud platform you are using. It's important to keep in mind that cloud-native architecture is an evolving field, and new technologies and solutions are constantly emerging.
 
+### should learn at least below 3 types 
+
+
 ### Microservices Architecture Diagram:
 
 This diagram illustrates a microservices architecture with multiple services communicating through APIs.
